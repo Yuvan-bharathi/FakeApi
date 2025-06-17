@@ -15,6 +15,22 @@
       "favourite_music_genre": "Rap",
       "preferred_programming_language": "Python",
       "best_frontend_framework": "React"
+    },
+    {
+      "id": 3,
+      "username": "JaneDoe",
+      "age": 28,
+      "favourite_music_genre": "Pop",
+      "preferred_programming_language": "Java",
+      "best_frontend_framework": "Angular"
+    },
+    {
+      "id": 4,
+      "username": "CodeMaster",
+      "age": 35,
+      "favourite_music_genre": "Rock",
+      "preferred_programming_language": "C++",
+      "best_frontend_framework": "React"
     }
   ],
   "polls": [
@@ -51,6 +67,10 @@
         "Vue",
         "Angular"
       ]
+    },
+    {
+      "question": "Preferred Backend Framework?",
+      "options": ["Node.js", "Django", "Ruby on Rails", "Spring Boot"]
     }
   ]
 }
